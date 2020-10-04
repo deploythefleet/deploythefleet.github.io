@@ -1,1 +1,14 @@
-theme: jekyll-theme-cayman
+minimal_mistakes_skin: "dark"
+remote_theme: mmistakes/minimal-mistakes
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+
+include: 
+  - _pages
