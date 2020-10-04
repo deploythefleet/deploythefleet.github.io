@@ -15,7 +15,7 @@ teaser                   : # path of fallback teaser image, e.g. "/assets/images
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
-words_per_minute         : 200
+words_per_minute         : 250
 
 plugins:
   - jekyll-paginate
@@ -37,6 +37,57 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/deploythefleet"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/sidwarkd"
+
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      show_date: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+      classes: wide
+  # _docs
+  - scope:
+      path: ""
+      type: docs
+    values:
+      layout: single
+      author_profile: true
+      show_date: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+
+# Collections
+collections:
+  docs:
+    output: true
+    permalink: /:collection/:path/
+    
+# Site Author
+author:
+  name             : Kevin
+  avatar           : "/assets/images/twitter.png"
+  bio              : "Obsessed with IoT and how to make it better"
+  location         : "Utah"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/kevinsidwar"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/sidwarkd"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/sidwarkd"
