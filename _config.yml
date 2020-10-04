@@ -1,14 +1,42 @@
 minimal_mistakes_skin: "dark"
 remote_theme: mmistakes/minimal-mistakes
 
+# Site Settings
+locale                   : "en-US"
+title                    : "Deploy The Fleet"
+title_separator          : "-"
+subtitle                 : # ""
+name                     : &name "MakerCrew, LLC" # &name is a YAML anchor which can be *referenced later
+description              : &description "The easiest way to manage Over-The-Air updates for embedded devices."
+url                      : https://deploythefleet.github.io # the base hostname & protocol for your site e.g. "deploythefleet.github.io"
+baseurl                  : # "/" # the subpath of your site, e.g. "/blog"
+repository               : "deploythefleet/deploythefleet.github.io"
+teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+# breadcrumbs            : false # true, false (default)
+words_per_minute         : 200
+
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
   - jemoji
   - jekyll-include-cache
 
 
 include: 
   - _pages
+
+# Site Footer
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/kevinsidwar"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/deploythefleet"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/sidwarkd"

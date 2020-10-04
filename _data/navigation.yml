@@ -1,0 +1,8 @@
+# main links
+main:
+  - title: "Quick Start"
+    url: /docs/quick-start-guide/
+  - title: "Docs"
+    url: /docs/
+  - title: "Blog"
+    url: /blog/
