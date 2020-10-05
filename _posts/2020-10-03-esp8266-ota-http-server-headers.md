@@ -28,7 +28,7 @@ We ran into a similar problem enabling ESP8266 support in Deploy the Fleet. As o
 [HTTP_X_ESP8266_VERSION] => DOOR-7-g14f53a19
 ```
 
-The problem is, those aren't the actual headers sent. If you look at the [code](https://github.com/esp8266/Arduino/blob/70e4457041eeb723033fc8011f3d724245d004ae/libraries/ESP8266httpUpdate/src/ESP8266httpUpdate.cpp#L262) however you will find that the headers have been updated and better named in my opinion. Here is the actual list:
+The problem is, those aren't the actual headers sent. If we look at the [code](https://github.com/esp8266/Arduino/blob/70e4457041eeb723033fc8011f3d724245d004ae/libraries/ESP8266httpUpdate/src/ESP8266httpUpdate.cpp#L262) we find the headers have been updated and better named in my opinion. Here is the actual list:
 
 ```yaml
 User-Agent: x-ESP8266-Chip-ID
@@ -43,11 +43,11 @@ x-ESP8266-mode: [spiffs or sketch]
 x-ESP8266-version: [value of version string passed to update call]
 ```
 
-Using the proper `User-Agent` header instead of a custom one is a good change. Unfortunately it was not documented. Also not documented is the addition of the `x-ESP8266-mode` header which will always be `sketch` unless you specifically call the `ESP8266HTTPUpdate::updateSpiffs` or `ESP8266HTTPUpdate::updateFS` functions.
+The biggest change is that all of the headers have been slightly renamed. Using the proper `User-Agent` header instead of a custom one is a good change. Unfortunately it was not documented. Also not documented is the addition of the `x-ESP8266-mode` header which will always be `sketch` unless you specifically call the `ESP8266HTTPUpdate::updateSpiffs` or `ESP8266HTTPUpdate::updateFS` functions.
 
 This also means the accompanying PHP sample code is also incorrect in the documentation as it references the old header names.
 
-One of the amazing things about open source is that we have the ability to improve the documentation by submitting PRs to the documentations.
+One of the amazing things about open source is that we have the ability to improve the documentation by submitting PRs to the repo.
 
   - [PR #7633 to Update Documentation](https://github.com/esp8266/Arduino/pull/7633)
   - [Issue #7634 Filed on Repo](https://github.com/esp8266/Arduino/issues/7634)
