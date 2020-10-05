@@ -6,7 +6,7 @@ collection: posts
 classes: wide
 sidebar:
   - title: Deploy the Fleet Blog
-    image: http://placehold.it/350x250
+    image: https://placehold.it/350x250
     image_alt: "image"
 ---
 
