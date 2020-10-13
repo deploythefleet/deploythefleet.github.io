@@ -4,7 +4,7 @@ permalink: /
 hidden: true
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/home_banner.jpg
+  overlay_image: /assets/images/mastheada.jpg
   actions:
     - label: "<i class='fas fa-sign-in-alt'></i> Get Started For Free"
       url: "https://deploy-the-fleet.herokuapp.com/"
@@ -14,7 +14,7 @@ feature_row:
   - image_path: /assets/images/feature_managed.jpg
     alt: "super simple"
     title: "Fully Managed"
-    excerpt: "Just upload your firmware updates and we take care of the rest. Requires minimal firmware code changes."
+    excerpt: "Requires minimal firmware code changes. After that, simply upload your firmware updates and we take care of the rest."
     url: "/docs/configuration/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
