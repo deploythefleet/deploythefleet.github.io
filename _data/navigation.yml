@@ -1,8 +1,45 @@
 # main links
 main:
-  - title: "Quick Start"
-    url: /docs/quick-start-guide/
+  - title: "Get Started"
+    url: /docs/intro/
   - title: "Docs"
     url: /docs/
   - title: "Blog"
     url: /blog/
+
+# documentation links
+docs:
+  - title: "Getting Started"
+    children:
+      - title: "What is Deploy the Fleet"
+        url: /docs/intro/
+      - title: "Create an Account"
+        url: /docs/create-account/
+      - title: "Prepare Your Firmware"
+        url: /docs/prepare-firmware/
+      - title: "Terminology"
+        url: /docs/terminology/
+      - title: "Dashboard"
+        url: /docs/dashboard/
+      - title: "Firmware View"
+        url: /docs/firmware-view/
+      - title: "Device View"
+        url: /docs/device-view/
+  - title: "Firmware Quick-Start Guides"
+    children:
+      - title: "ESP8266 Arduino Core"
+        url: /docs/quick-start/esp8266/arduino-core/
+      - title: "ESP8266 ESP-IDF"
+        url: /docs/quick-start/esp8266/idf/
+      - title: "ESP32 Arduino Core"
+        url: /docs/quick-start/esp32/arduino-core/
+      - title: "ESP32 ESP-IDF"
+        url: /docs/quick-start/esp32/idf/
+  - title: "How To"
+    children:
+      - title: "Manage Products"
+        url: /docs/manage-products/
+      - title: "Manage Firmware"
+        url: /docs/manage-firmware/
+      - title: "Manage Devices"
+        url: /docs/manage-devices/
