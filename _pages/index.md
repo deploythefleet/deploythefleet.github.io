@@ -9,7 +9,7 @@ header:
     - label: "<i class='fas fa-sign-in-alt'></i> Get Started For Free"
       url: "/docs/intro"
 excerpt: >
-  The easiest way to manage Over-The-Air updates for embedded devices.<br />
+  The easiest way to manage firmware updates for embedded devices.<br />
 feature_row:
   - image_path: /assets/images/feature_managed.jpg
     alt: "super simple"

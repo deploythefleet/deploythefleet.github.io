@@ -8,7 +8,7 @@ tags:
   - ESP8266
   - Technical
   - OTA
-  - HTTP
+  - HTTPS
   - WiFiManager
 ---
 

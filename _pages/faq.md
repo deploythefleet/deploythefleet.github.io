@@ -19,7 +19,7 @@ Deploy the Fleet currently supports ESP32 and ESP8266 devices and all custom der
 
 ## Why would I use this service?
 
-As a maker or product creator your focus should be on writing your core firmware, not worrying about all the details that go into updating it. With Deploy the Fleet you get a complete web-based OTA solution that allows you to manage new versions of firmware that your devices seamlessly receive. The service also offers device insights allowing you to monitor your devices.
+As a maker or product creator your focus should be on writing your core firmware, not worrying about all the details that go into updating it. With Deploy the Fleet you get a complete web-based solution that allows you to manage new versions of firmware that your devices seamlessly receive. The service also offers device insights allowing you to monitor your devices.
 
 Questions Deploy the Fleet can answer for you:
 

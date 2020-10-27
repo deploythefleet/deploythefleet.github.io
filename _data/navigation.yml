@@ -15,8 +15,8 @@ docs:
         url: /docs/intro/
       - title: "Create an Account"
         url: /docs/create-account/
-      - title: "Prepare Your Firmware"
-        url: /docs/prepare-firmware/
+      - title: "Initial Setup"
+        url: /docs/initial-setup/
       - title: "Terminology"
         url: /docs/terminology/
       - title: "Dashboard"
@@ -43,3 +43,5 @@ docs:
         url: /docs/manage-firmware/
       - title: "Manage Devices"
         url: /docs/manage-devices/
+      - title: "Change Color Scheme"
+        url: /docs/change-color-scheme

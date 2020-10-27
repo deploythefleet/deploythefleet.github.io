@@ -7,7 +7,7 @@ tags:
   - ESP8266
   - Technical
   - OTA
-  - HTTP
+  - HTTPS
 ---
 
 If you are using the Arduino Core libraries in your ESP8266 library and want to do OTA updates using the [HTTP Server method](https://arduino-esp8266.readthedocs.io/en/latest/ota_updates/readme.html#http-server) you may have run into issues with the server sample code or noticed something off with the headers. 
