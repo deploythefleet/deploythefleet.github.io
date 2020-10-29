@@ -26,3 +26,28 @@ feature_row:
 ---
 
 {% include feature_row %}
+
+# Manage Firmware
+{: .text-center}
+
+### Securely uploaded and encrypted. Delivered directly to your devices.
+{: .text-center}
+
+![image-center](/assets/images/docs/homepage_firmware.png){: .align-center}
+
+<br/>
+
+# Insights Into Your Fleet 
+{: .text-center}
+
+![image-center](/assets/images/docs/homepage_devices.png){: .align-center}
+
+<br/>
+
+# Focus on your Product
+{: .text-center}
+
+### You have enough work to do writing your core firmware. Let us handle the details of getting that firmware to your devices.
+{: .text-center}
+
+![image-center](/assets/images/docs/homepage_dashboard.png){: .align-center}
