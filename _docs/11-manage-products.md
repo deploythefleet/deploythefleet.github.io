@@ -7,4 +7,23 @@ toc_icon: clipboard-list
 classes: wide
 ---
 
-manage products
+## Create a Product
+To create a product simply click on your email in the upper right corner of the application. A menu will appear with the option to create a new product.
+
+![image-center](/assets/images/docs/create_product_menu.png){: .align-center}
+
+The create product page will appear. Enter the name of the product and click **Create**
+
+![image-center](/assets/images/docs/create_product.png){: .align-center}
+
+
+## Delete a Product
+To delete a product simply click on the red trash icon in the top right corner of the Dashboard page. 
+
+![image-center](/assets/images/docs/delete_product_icon.png){: .align-center}
+
+You will be asked to confirm that you wish to delete the product.
+
+**WARNING:** Deleting a product will remove all firmware and device information that exists for that product. This data will be removed permanently.
+{: .notice--danger}
+

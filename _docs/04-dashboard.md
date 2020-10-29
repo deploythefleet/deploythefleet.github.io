@@ -6,10 +6,10 @@ toc: false
 classes: wide
 ---
 
-[IMAGE of main dashboard]
+![image-center](/assets/images/docs/main_dashboard.png){: .align-center}
 
 The main dashboard contains an overview for the currently selected product. At a glance you can see what the default firmware version is, how many devices have come online, and how many different firmware versions are running in the field.
 
-An important piece of data on the main dashboard is the OTA URL your devices will use to check for updates. It is found directly below the product name.
+An important piece of data on the main dashboard is the update URL your devices will use to check for updates. It is found directly below the product name.
 
-[IMAGE showing location of OTA URL]
+![image-center](/assets/images/docs/main_dashboard_ota.png){: .align-center}

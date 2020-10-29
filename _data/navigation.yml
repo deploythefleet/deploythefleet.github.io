@@ -2,8 +2,8 @@
 main:
   - title: "Get Started"
     url: /docs/intro/
-  - title: "Docs"
-    url: /docs/
+  - title: "Help"
+    url: /help/
   - title: "Blog"
     url: /blog/
 
@@ -25,7 +25,7 @@ docs:
         url: /docs/firmware-view/
       - title: "Device View"
         url: /docs/device-view/
-  - title: "Firmware Quick-Start Guides"
+  - title: "Firmware Quick Start Guides"
     children:
       - title: "ESP8266 Arduino Core"
         url: /docs/quick-start/esp8266/arduino-core/

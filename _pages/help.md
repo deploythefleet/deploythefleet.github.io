@@ -1,15 +1,17 @@
 ---
-title: "Deploy the Fleet Documentation"
-permalink: /docs/
+title: "Need Help?"
+permalink: /help/
 last_modified_at: 2020-10-20
 layout: splash
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/masthead1a.jpg
+excerpt: >
+  Here are some resources to get you what you need.<br />
 
 feature_row:
   - title: "The Docs"
-    excerpt: "If you've never used Deploy the Fleet it's quick and easy to get started."
+    excerpt: "Everything you need to know to use Deploy the Fleet including quick start guides."
     url: "/docs/intro/"
     btn_class: "btn--info align-center"
     btn_label: "Documentation"
