@@ -2,8 +2,9 @@
 title: "ESP8266 Arduino Core Quick Start"
 permalink: /docs/quick-start/esp8266/arduino-core/
 last_modified_at: 2020-10-23
-toc: false
-classes: wide
+toc: true
+toc_label: "ESP8266 Quick Start"
+toc_sticky: true
 ---
 
 The following instructions should work for any development board or module that can run the [ESP8266 Arduino Core library](https://arduino-esp8266.readthedocs.io/). If your project uses the Arduino Core library the steps below illustrate how to modify your firmware so your devices connect to Deploy the Fleet for updates.
