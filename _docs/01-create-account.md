@@ -12,8 +12,8 @@ Creating an account in Deploy the Fleet takes just a minute. Clicking the button
 
 After providing your email and password a confirmation email will be sent to you. Simply click the link in the email to verify your account. To prevent spam, accounts must be verified before you can log in.
 
-**Don't See The Confirmation Email?:** Be sure to check your spam folder if the confirmation email does not show up in your inbox.
-{: .notice--danger}
+<i class='fas fa-info-circle'></i> **Don't See The Confirmation Email?:** Be sure to check your spam folder if the confirmation email does not show up in your inbox.
+{: .notice--info}
 
 After verifying your account you're ready to log in.
 

@@ -33,14 +33,14 @@ feature_row:
 ### Securely uploaded and encrypted. Delivered directly to your devices.
 {: .text-center}
 
-![image-center](/assets/images/docs/homepage_firmware.png){: .align-center}
+![Firmware view example](/assets/images/docs/homepage_firmware.png){: .align-center}
 
 <br/>
 
 # Insights Into Your Fleet 
 {: .text-center}
 
-![image-center](/assets/images/docs/homepage_devices.png){: .align-center}
+![Device view example](/assets/images/docs/homepage_devices.png){: .align-center}
 
 <br/>
 
@@ -50,4 +50,7 @@ feature_row:
 ### You have enough work to do writing your core firmware. Let us handle the details of getting that firmware to your devices.
 {: .text-center}
 
-![image-center](/assets/images/docs/homepage_dashboard.png){: .align-center}
+![Dashboard example](/assets/images/docs/homepage_dashboard.png){: .align-center}
+
+[Create an Account](https://app.deploythefleet.io?register=true){: .btn .btn--info .btn--large}
+{: .text-center}

@@ -6,4 +6,4 @@ toc: false
 classes: wide
 ---
 
-ESP32 IDF FW QS
+Instructions for integrating with the ESP-IDF are coming soon.

@@ -14,7 +14,7 @@ classes: wide
   1. Fill out the request fields on the dialog
   1. Click **Upload**
 
-![image-center](/assets/images/docs/fw_create_dialog.png){: .align-center}
+![Create firmware dialog](/assets/images/docs/fw_create_dialog.png){: .align-center}
 
 We recommend you use [Semantic Versioning](https://semver.org/) for versioning your firmware binaries.
 

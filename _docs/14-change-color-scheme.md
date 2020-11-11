@@ -12,6 +12,6 @@ Deploy the Fleet defaults to a dark theme. However, you can switch to a light th
 
 You can toggle back to Dark Mode following the same steps except you select _Switch to Dark Mode_ from the dropdown menu.
 
-![image-center](/assets/images/docs/dark_mode_dashboard.png){: .align-center}
+![Example of dark theme](/assets/images/docs/dark_mode_dashboard.png){: .align-center}
 
-![image-center](/assets/images/docs/light_mode_dashboard.png){: .align-center}
+![Example of light theme](/assets/images/docs/light_mode_dashboard.png){: .align-center}
