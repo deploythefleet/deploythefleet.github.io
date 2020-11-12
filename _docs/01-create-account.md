@@ -8,7 +8,7 @@ classes: wide
 
 Creating an account in Deploy the Fleet takes just a minute. Clicking the button below will take you to the app registration page.
 
-[Create an Account](https://app.deploythefleet.io?register=true){: .btn .btn--info .btn--large}
+<a href="https://app.deploythefleet.io?register=true" class="btn btn--info btn--large" target="_blank">Create an Account</a>
 
 After providing your email and password a confirmation email will be sent to you. Simply click the link in the email to verify your account. To prevent spam, accounts must be verified before you can log in.
 
@@ -17,4 +17,5 @@ After providing your email and password a confirmation email will be sent to you
 
 After verifying your account you're ready to log in.
 
-[Log In](https://app.deploythefleet.io){: .btn .btn--info .btn--large}
+<a href="https://app.deploythefleet.io" class="btn btn--info btn--large" target="_blank">Log In</a>
+

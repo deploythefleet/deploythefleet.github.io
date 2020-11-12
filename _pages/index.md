@@ -52,5 +52,5 @@ feature_row:
 
 ![Dashboard example](/assets/images/docs/homepage_dashboard.png){: .align-center}
 
-[Create an Account](https://app.deploythefleet.io?register=true){: .btn .btn--info .btn--large}
+<a href="https://app.deploythefleet.io?register=true" class="btn btn--info btn--large" target="_blank">Create an Account</a>
 {: .text-center}

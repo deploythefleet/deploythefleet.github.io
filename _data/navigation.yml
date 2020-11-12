@@ -17,8 +17,6 @@ docs:
         url: /docs/create-account/
       - title: "Initial Setup"
         url: /docs/initial-setup/
-      - title: "Terminology"
-        url: /docs/terminology/
       - title: "Dashboard"
         url: /docs/dashboard/
       - title: "Firmware View"
