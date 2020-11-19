@@ -8,6 +8,7 @@ header:
   actions:
     - label: "<i class='fas fa-sign-in-alt'></i> Get Started For Free"
       url: "/docs/intro"
+  og_image: "/assets/images/dtf_og_image.png"
 excerpt: >
   The easiest way to manage firmware updates for embedded devices.<br />
 feature_row:
