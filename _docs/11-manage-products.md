@@ -4,7 +4,8 @@ permalink: /docs/manage-products/
 last_modified_at: 2020-10-23
 toc: true
 toc_icon: clipboard-list
-classes: wide
+toc_label: "Managing Products"
+toc_sticky: true
 ---
 
 ## Create a Product
@@ -15,6 +16,10 @@ To create a product simply click on your email in the upper right corner of the 
 The create product page will appear. Enter the name of the product and click **Create**
 
 ![Create product dialog](/assets/images/docs/create_product.png){: .align-center}
+
+<div class="responsive-video-container">
+<iframe id="lbry-iframe" width="800" height="450" src="https://lbry.tv/$/embed/dtf-create-product/96c4b6275264acfa62042fd74b52deec2206b008?r=FMmfD3i3a3LWW4n5arB65GwERbZDqgyE" allowfullscreen></iframe>
+</div>
 
 
 ## Delete a Product

@@ -9,6 +9,12 @@ toc_sticky: true
 
 The following instructions should work for any development board or module that can run the [ESP8266 Arduino Core library](https://arduino-esp8266.readthedocs.io/). If your project uses the Arduino Core library the steps below illustrate how to modify your firmware so your devices connect to Deploy the Fleet for updates.
 
+## Video Walkthrough
+
+<div class="responsive-video-container">
+<iframe id="lbry-iframe" width="800" height="450" src="https://lbry.tv/$/embed/dtf-esp8266-quickstart/e5fba3cac34458c2664a314776285536de83ff2e?r=FMmfD3i3a3LWW4n5arB65GwERbZDqgyE" allowfullscreen></iframe>
+</div>
+
 ## Sample Project
 If you already have a project or product using the Arduino Core library you can skip this section. If you are starting from scratch this section will walk you through getting a sample project ready for integration with Deploy the Fleet.
 
@@ -74,7 +80,11 @@ To make the integration as easy as possible we created an Arduino library. It ca
 
 #### Using Library Manager (recommended)
 
-Coming soon. Awaiting approval from Arduino Library Manager.
+  1. From the _Sketch_ menu select _Include Library->Manage Libraries_. The Library Manager dialog will open
+  1. In the filter field enter "DTF" to filter the results
+  1. Install the latest version of the DTF_ESP8266Update library.
+
+  ![Arduino IDE Library Manager dialog](/assets/images/docs/arduino_library_manager.png)
 
 #### Import ZIP File
 

@@ -4,8 +4,8 @@ permalink: /docs/manage-devices/
 last_modified_at: 2020-10-23
 toc: true
 toc_icon: clipboard-list
+toc_label: "Managing Devices"
 toc_sticky: true
-classes: wide
 ---
 
 ## Create a Device

@@ -19,3 +19,6 @@ After verifying your account you're ready to log in.
 
 <a href="https://app.deploythefleet.io" class="btn btn--info btn--large" target="_blank">Log In</a>
 
+<div class="responsive-video-container">
+<iframe id="lbry-iframe" width="800" height="450" src="https://lbry.tv/$/embed/dtf_create_account/0d7e097ba2355b79b61845b0c564ce7fee061b77?r=FMmfD3i3a3LWW4n5arB65GwERbZDqgyE" allowfullscreen></iframe>
+</div>
