@@ -2,6 +2,8 @@
 main:
   - title: "Get Started"
     url: /docs/intro/
+  - title: "Pricing"
+    url: /pricing
   - title: "Help"
     url: /help/
   - title: "Blog"
