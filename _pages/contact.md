@@ -12,7 +12,7 @@ header:
 
 The best way to reach out for help or questions (or even to just say "hey") is via email.
 
-<a href="javascript:location='mailto:\u006b\u0065\u0076\u0069\u006e\u0040\u0073\u0069\u0064\u0077\u0061\u0072\u002e\u0063\u006f\u006d';void 0"><script type="text/javascript">document.write('\u006b\u0065\u0076\u0069\u006e\u0040\u0073\u0069\u0064\u0077\u0061\u0072\u002e\u0063\u006f\u006d')</script></a>
+<a href='&#109;&#97;&#105;l&#116;o&#58;&#37;73&#117;p&#112;&#111;%72&#116;&#64;dep&#108;oyt%&#54;8%65fle&#101;t&#46;io'>&#115;&#117;pp&#111;rt&#64;d&#101;p&#108;o&#121;th&#101;fle&#101;t&#46;io</a>
 
 # Twitter
 
