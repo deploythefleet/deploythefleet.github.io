@@ -33,7 +33,7 @@ feature_row:
 
       - **Unlimited** OTA Updates"
 
-  - title: "Startup ($20/mo)"
+  - title: "Startup ($100/mo)"
     excerpt: "You sell your devices to the masses and need a simple, secure update strategy.
 
       - **Unlimited** Products
@@ -42,7 +42,9 @@ feature_row:
       
       - **Unlimited** Devices
 
-      - **Unlimited** OTA Updates"
+      - **Unlimited** OTA Updates
+      
+      - **24/7** Support"
 ---
 
 {% include feature_row %}
