@@ -15,7 +15,7 @@ Best for very low volume and technical user base or if you allow for custom firm
 Must make sure drivers work on all platforms, provide instructions
 
 USB Cable
-Drivers again
+Drivers again and a bootloader
 If customers aren't technical you will have to create and maintain a cross platform app that simplifies the process for them
 Best if updates are infrequent and if the device can be easily put in range of computer. Requires a computer.
 
