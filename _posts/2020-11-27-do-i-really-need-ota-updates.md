@@ -2,6 +2,13 @@
 title: "Do I Really Need OTA Updates?"
 last_modified_at: 2020-11-27
 excerpt_separator: "<!--more-->"
+tagline: Deciding which update approach is best for your product
+layout: single
+header:
+  overlay_image: /assets/images/connected_city.jpg
+  overlay_filter: 0.4
+  show_overlay_excerpt: false
+  og_image: /assets/images/connected_city.jpg
 categories:
   - blog
 tags:
