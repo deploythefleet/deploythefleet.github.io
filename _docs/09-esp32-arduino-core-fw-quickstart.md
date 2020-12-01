@@ -138,6 +138,12 @@ Before you can upload your firmware to Deploy the Fleet you need to export it fr
 
 Your firmware binary will be exported to the same folder where your sketch is located.
 
+<i class='fas fa-database'></i> **OTA PARTITION SIZE:** Make sure your configured OTA partition size is sufficient for the size of your exported firmware binary. This can be configured via the _Tools->Partition Scheme_ menu in the Arduino IDE.
+{: .notice--info}
+
+<i class='fas fa-info-circle'></i> **WARNING:** Deploy the Fleet can not validate that your firmware binary will fit in your device's OTA partition. You should validate this prior to uploading the firmware. The Arduino Core library will fail and skip any update that is too large to fit in the OTA partition.
+{: .notice--warning}
+
 ### Upload Firmware to your Device
 Now that you've made your firmware Deploy the Fleet aware upload it to your device.
 
