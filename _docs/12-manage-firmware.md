@@ -23,4 +23,10 @@ We recommend you use [Semantic Versioning](https://semver.org/) for versioning y
 Coming Soon
 
 ## Delete Firmware
-Deleting firmware is not currently supported. If you would like to see this feature added please submit it as a feature request using the Feedback page within the app.
+
+  1. Open the Firmware page for your product
+  1. Click on the firmware you would like to delete. The firmware dialog will open
+  1. Click **Delete**
+  1. Confirm the delete operation
+
+![Create firmware dialog](/assets/images/docs/delete_fw.png){: .align-center}
